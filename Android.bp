@@ -1,0 +1,5 @@
+dex_import {
+        name: "moto-telephony",
+        owner: "motorola",
+        jars: ["moto-telephony.jar"],
+}
