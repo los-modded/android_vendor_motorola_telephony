@@ -3,6 +3,7 @@ java_library {
     installable: true,
     static_libs: [
         "ims-ext-common",
+        "qcrilhook",
         "qti-telephony-utils",
         "android.hidl.manager-V1.0-java",
     ],
